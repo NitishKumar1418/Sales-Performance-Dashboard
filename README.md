@@ -7,9 +7,9 @@ The main objective is to analyze sales data, evaluate business performance, iden
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](Executive_Dashboard.png)
+![Sales Performance Dashboard]
+<img width="1672" height="941" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/6e551fb9-1226-4b41-a7b4-da77310a10ff" />
 
-*Note: This image is a visual design preview. Replace it with an actual Power BI dashboard screenshot when available.*
 
 ## Objectives
 
